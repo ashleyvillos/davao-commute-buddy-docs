@@ -44,4 +44,4 @@ Ashley Villos
 
 Davao City, Philipines.
 
-dev.dilaab@gmail.com
+[dev.dilaab@gmail.com](mailto:dev.dilaab@gmail.com)
