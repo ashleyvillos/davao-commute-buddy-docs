@@ -1,4 +1,4 @@
-# Davao Commute Buddy: Privacy Policy
+# Davao Commute Buddy Privacy Policy
 
 Welcome to the Davao Commute Buddy app for Android! 
 
