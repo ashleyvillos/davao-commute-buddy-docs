@@ -2,7 +2,7 @@
 
 Welcome to the Davao Commute Buddy app for Android! 
 
-This is a closed-source Android app developed by Neil Marc Mejia. The app is available on Google Play. I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge. 
+This is a closed-source Android app developed by Ashley Villos. The app is available on Google Play. I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge. 
 
 I hereby state, as I have developed the app personally from the ground up, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like language selected, or first time tutorials) as executed by you (the user) is stored on your device only and can be erased by clearing the app's data or uninstalling it.
 
